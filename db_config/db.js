@@ -10,12 +10,7 @@ import {
   collection,
 } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "AIzaSyB7ndrPs4NHWQGsVfwAPNxnZr7R_5Y4l5s",
-  authDomain: "college-hostel-project.firebaseapp.com",
-  projectId: "college-hostel-project",
-  storageBucket: "college-hostel-project.appspot.com",
-  messagingSenderId: "177104720898",
-  appId: "1:177104720898:web:2ef6d931941e6d3309431b",
+   // Go to firebase they provide api key then copy paste here 
 };
 
 // Initialize Firebase
